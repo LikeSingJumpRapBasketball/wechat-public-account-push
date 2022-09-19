@@ -60,9 +60,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "仙人板板",
+      name: "清池'ᴗ'",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "3da88c4488836ac75f1f96921c7e4263",
+      id: "o46P15lysvICNhabwU1vkg0h__9E",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "1IlAwbvd1yPpAH1_NaXxhBhVikPkn1DeDit4JlY4WQc",
       // 所在省份
@@ -94,42 +94,42 @@ export const config = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+//     {
+//       name: "老婆1",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
+//     {
+//       name: "老婆2",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
+//     {
+//       name: "老婆3",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
     // 你可以不断按格式往下增加
     // ...
   ],
